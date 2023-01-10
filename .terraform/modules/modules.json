@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"pubsub_example_simple","Source":"registry.terraform.io/terraform-google-modules/pubsub/google//examples/simple","Version":"5.0.0","Dir":".terraform/modules/pubsub_example_simple/examples/simple"},{"Key":"pubsub_example_simple.pubsub","Source":"../..","Dir":".terraform/modules/pubsub_example_simple"}]}
